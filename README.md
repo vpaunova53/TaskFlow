@@ -68,11 +68,17 @@ Open your browser and navigate to http://127.0.0.1:5000
 📁 Project Structure
 
 Plaintext
+
 taskflow/
+
 ├── app.py              # Flask Server & API Routes
+
 ├── tasks.db            # SQLite Database (Auto-generated)
+
 ├── static/             # Static assets (CSS/JS)
+
 └── templates/
+    
     └── index.html      # Frontend Interface
 
 🧠 Key Learnings
