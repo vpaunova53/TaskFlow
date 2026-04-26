@@ -4,17 +4,16 @@ TaskFlow 🚀
 A high-performance, real-time Task Management dashboard built with a Python (Flask) backend and a modern Vanilla JavaScript frontend. This project demonstrates a complete Client-Server architecture with persistent data storage.
 
 🌟 Features
-- Full CRUD Operations: Create, Read, and Delete tasks with instant UI updates.
 
-- RESTful API: Clean separation between frontend logic and backend data processing.
+- Kanban Workflow: Organize tasks into To Do, In Process, and Done columns.
 
-- Persistent Storage: Utilizes SQLite for lightweight, reliable data management.
+- Smart Entry: Choose the target column immediately upon task creation.
 
-- Modern UI/UX: * Responsive design using Tailwind CSS.
+- State Management: Move tasks between columns using PATCH requests to update the database state dynamically.
 
-- Glassmorphism UI effects and smooth entrance animations.
+- Rule-Based AI Assistant: A custom-coded "Brain" that handles natural language queries for productivity tips, jokes, and time-checks.
 
-- Real-time status indicators and staggered "waterfall" loading.
+- Glassmorphism UI: A modern, high-energy interface built with Tailwind CSS and Animate.css for a professional feel.
 
 🛠️ Tech Stack
 = Backend: Python 3.12, Flask
