@@ -4,26 +4,26 @@ TaskFlow 🚀
 A high-performance, real-time Task Management dashboard built with a Python (Flask) backend and a modern Vanilla JavaScript frontend. This project demonstrates a complete Client-Server architecture with persistent data storage.
 
 🌟 Features
-Full CRUD Operations: Create, Read, and Delete tasks with instant UI updates.
+- Full CRUD Operations: Create, Read, and Delete tasks with instant UI updates.
 
-RESTful API: Clean separation between frontend logic and backend data processing.
+- RESTful API: Clean separation between frontend logic and backend data processing.
 
-Persistent Storage: Utilizes SQLite for lightweight, reliable data management.
+- Persistent Storage: Utilizes SQLite for lightweight, reliable data management.
 
-Modern UI/UX: * Responsive design using Tailwind CSS.
+- Modern UI/UX: * Responsive design using Tailwind CSS.
 
-Glassmorphism UI effects and smooth entrance animations.
+- Glassmorphism UI effects and smooth entrance animations.
 
-Real-time status indicators and staggered "waterfall" loading.
+- Real-time status indicators and staggered "waterfall" loading.
 
 🛠️ Tech Stack
-Backend: Python 3.12, Flask
+= Backend: Python 3.12, Flask
 
-Frontend: HTML5, Tailwind CSS, JavaScript (ES6+ Fetch API)
+- Frontend: HTML5, Tailwind CSS, JavaScript (ES6+ Fetch API)
 
-Database: SQLite3
+- Database: SQLite3
 
-Animations: Animate.css
+- Animations: Animate.css
 
 🚀 Getting Started
 Prerequisites
