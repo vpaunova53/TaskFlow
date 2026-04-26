@@ -78,8 +78,8 @@ taskflow/
 ├── static/             # Static assets (CSS/JS)
 
 └── templates/
-    
-    └── index.html      # Frontend Interface
+
+└── index.html      # Frontend Interface
 
 🧠 Key Learnings
 
